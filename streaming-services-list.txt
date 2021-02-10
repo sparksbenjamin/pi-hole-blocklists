@@ -1,4 +1,0 @@
-"(^|\.)hulu.com$"
-"(^|\.)netflix.com$"
-"(^|\.)disneyplus.com$"
-"(^|\.)hulu.com$"
