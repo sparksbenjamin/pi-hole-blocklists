@@ -1,4 +1,4 @@
 #!/bin/bash
 while IFS= read -r line; do
-    echo "Text read from file: $line"
+    pihole -b --regex $line
 done < "$1"
