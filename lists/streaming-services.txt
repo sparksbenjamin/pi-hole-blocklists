@@ -1,4 +1,1 @@
-(^|\.)hulu.com$
-(^|\.)netflix.com$
-(^|\.)disneyplus.com$
-(^|\.)hulu.com$
+(^|\.)hulu.com$ (^|\.)netflix.com$ (^|\.)disneyplus.com$ (^|\.)hulu.com$
